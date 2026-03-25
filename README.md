@@ -58,7 +58,7 @@ Soy un desarrollador apasionado por la arquitectura de software, especializado e
 ---
 
 ### 📫 Contacto
-* **LinkedIn:** [Sebastián Rodríguez Valverde](www.linkedin.com/in/sebasr12)
+* **LinkedIn:** [Sebastián Rodríguez](www.linkedin.com/in/sebasr12)
 * **Email:** [sebasrod1438@gmail.com]
 
 ---
