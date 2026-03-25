@@ -29,7 +29,7 @@ Soy un desarrollador apasionado por la arquitectura de software, especializado e
 
 ### 📂 Proyectos Principales
 
-#### 🏗️ [Sistema de Inventario Fullstack](https://github.com/SebasR12)
+#### 🏗️ [SistemaInventario_API](https://github.com/SebasR12)
 * **Backend:** API REST robusta desarrollada con **.NET 8**.
 * **Frontend:** Interfaz dinámica y moderna en **Blazor WebAssembly**.
 * **Base de Datos:** Diseño relacional avanzado implementado en **SQL Server**.
