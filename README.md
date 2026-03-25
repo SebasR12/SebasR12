@@ -1,5 +1,5 @@
 # ¡Hola! Soy Sebastián Rodríguez Valverde 👋 
-### 🎓 Ingeniero Informático en formación | Fullstack Developer
+### 🎓 Ingeniero Informático | Fullstack Developer
 
 Finalicé satisfactoriamente el plan de estudios en la **Universidad Metropolitana Castro Carazo (UMCA)**, Costa Rica. Actualmente me encuentro en proceso de graduación (prevista para **junio de 2026**).
 
@@ -29,7 +29,7 @@ Soy un desarrollador apasionado por la arquitectura de software, especializado e
 
 ### 📂 Proyectos Principales
 
-#### 🏗️ [Sistema Inventario API](https://github.com/SebasR12/Frontend_Inventario)
+#### 🏗️ [Sistema de Inventario Fullstack](https://github.com/SebasR12)
 * **Backend:** API REST robusta desarrollada con **.NET 8**.
 * **Frontend:** Interfaz dinámica y moderna en **Blazor WebAssembly**.
 * **Base de Datos:** Diseño relacional avanzado implementado en **SQL Server**.
@@ -58,8 +58,9 @@ Soy un desarrollador apasionado por la arquitectura de software, especializado e
 ---
 
 ### 📫 Contacto
-* **LinkedIn:** [Sebastián Rodríguez](https://www.linkedin.com/in/sebasti%C3%A1n-rodriguez-650465305/)
-* **Email:** [sebasrod1438@gmail.com]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/sebasti%C3%A1n-rodriguez-650465305/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Correo:sebasrod1438@gmail.com)
 
 ---
 <p align="center">
