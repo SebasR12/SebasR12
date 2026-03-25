@@ -59,10 +59,11 @@ Soy un desarrollador apasionado por la arquitectura de software, especializado e
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastián-rodriguez-650465305/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebasrod1438@gmail.com)
+*   **LinkedIn:** [Sebastián Rodríguez Valverde](https://www.linkedin.com/in/sebastián-rodriguez-650465305/)
+*   **Email:** sebasrod1438@gmail.com
 
 ---
+
 <p align="center">
   <i>"El éxito no es solo escribir código que funcione, sino código que perdure."</i>
 </p>
